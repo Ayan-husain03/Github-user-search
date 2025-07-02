@@ -29,7 +29,7 @@ npm start
 
 
 ## 📸 Demo
-🚀 **[Live Demo](https://google.com)**  
+🚀 **[Live Demo](https://github-user-search-seven-smoky.vercel.app/)**  
 ## - 💡 Learnings
 - ✅ Debouncing in React
 - ✅ API Integration
