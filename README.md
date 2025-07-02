@@ -1,12 +1,38 @@
-# React + Vite
+# GitHub User Search 🔍\
+- A modern, responsive React application to search GitHub profiles in real-time using the GitHub public API with debouncing for better performance.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
+- 🔥 Real-time GitHub user search
+- ⏳ Debouncing to avoid unnecessary API calls
+- 🖥️ Clean, responsive, and modern UI
+- 🎨 Smooth animations & hover effects
+- ✅ Error handling and loading states
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
+- React.js
+- HTML & CSS
+- GitHub Public API
+- Custom React Hook (useDebounce)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+``` bash
+git clone https://github.com/your-username/github-user-search.git
+cd github-user-search
+npm install
+npm start
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Usage
+- Type a GitHub username in the search bar.
+- Debouncing prevents excessive API calls.- 
+- Results display profile picture, username, and link to the - profile.
+
+
+## 📸 Demo
+🚀 **[Live Demo](https://google.com)**  
+## - 💡 Learnings
+- ✅ Debouncing in React
+- ✅ API Integration
+- ✅ Custom Hooks
+- ✅ Clean, responsive design
+
